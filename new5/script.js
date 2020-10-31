@@ -21,3 +21,5 @@ $('.time-block').each(function(){
 
 
 
+});
+
